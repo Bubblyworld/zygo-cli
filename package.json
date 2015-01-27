@@ -1,11 +1,14 @@
 {
   "name": "zygo-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI wrapper around the zygo server API.",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Bubblyworld/zygo-cli.git"
+  },
+  "bin": {
+    "zygo": "./lib/index.js"
   },
   "keywords": [
     "zygo",
@@ -19,6 +22,6 @@
   "homepage": "https://github.com/Bubblyworld/zygo-cli",
   "dependencies": {
     "cli": "^0.6.5",
-    "zygo-server": "^0.1.6"
+    "zygo-server": "^0.1"
   }
 }
