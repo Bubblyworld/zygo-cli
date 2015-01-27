@@ -1,0 +1,24 @@
+{
+  "name": "zygo-cli",
+  "version": "1.0.0",
+  "description": "CLI wrapper around the zygo server API.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bubblyworld/zygo-cli.git"
+  },
+  "keywords": [
+    "zygo",
+    "cli"
+  ],
+  "author": "Guy Paterson-Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bubblyworld/zygo-cli/issues"
+  },
+  "homepage": "https://github.com/Bubblyworld/zygo-cli",
+  "dependencies": {
+    "cli": "^0.6.5",
+    "zygo-server": "^0.1.6"
+  }
+}
