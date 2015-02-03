@@ -6,7 +6,7 @@ A simple wrapper around the [zygo server](https://github.com/Bubblyworld/zygo-se
 `npm install zygo-cli -g`
 
 ## Usage
-`zygo-cli [options] zygo.json`
+`zygo [options] zygo.json`
 
 Options can be any of:
 - `--serve/-s`  
