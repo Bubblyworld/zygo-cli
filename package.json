@@ -1,6 +1,6 @@
 {
-  "name": "zygo-cli",
-  "version": "1.0.2",
+  "name": "zygo",
+  "version": "0.3.0",
   "description": "CLI wrapper around the zygo server API.",
   "main": "lib/index.js",
   "repository": {
