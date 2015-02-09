@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Bubblyworld/zygo-cli.git"
+    "url": "https://github.com/zygo-io/zygo-cli.git"
   },
   "bin": {
     "zygo": "./lib/index.js"
@@ -17,9 +17,9 @@
   "author": "Guy Paterson-Jones",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Bubblyworld/zygo-cli/issues"
+    "url": "https://github.com/zygo-io/zygo-cli/issues"
   },
-  "homepage": "https://github.com/Bubblyworld/zygo-cli",
+  "homepage": "https://github.com/zygo-io/zygo-cli",
   "dependencies": {
     "cli": "^0.6.5",
     "zygo-server": "^0.2"
