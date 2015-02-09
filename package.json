@@ -1,6 +1,6 @@
 {
   "name": "zygo",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "CLI wrapper around the zygo server API.",
   "main": "lib/index.js",
   "repository": {
